@@ -1,0 +1,20 @@
+AJ	Anjaw	Hawai	21,089	6,190	3	http://lohit.nic.in/anjaw.htm
+CH	Changlang	Changlang	147,951	4,662	32	http://changlang.nic.in/
+UD	Dibang Valley	Anini	7,948	9,129	1	http://dibang.nic.in/
+EK	East Kameng	Seppa	78,413	4,134	19	http://eastkameng.nic.in/
+ES	East Siang	Pasighat	99,019	3,603	27	http://eastsiang.nic.in/
+Kra Daadi	Jamin				
+KK	Kurung Kumey	Koloriang	89,717	6,040	15	http://kurungkumey.nic.in/
+EL	Lohit	Tezu	145,538	2,402	28	http://lohit.nic.in/
+LD	Longding	Longding				
+DV	Lower Dibang Valley	Anini	53,986	3,900	14	http://roing.nic.in/
+LB	Lower Subansiri	Ziro	82,839	3,508	24	http://lowersubansiri.nic.in/
+Namsai	Namsai				
+PA	Papum Pare	Yupia	176,385	2,875	51	http://papumpare.nic.in/
+Siang	Pangin				
+TA	Tawang	Tawang Town	49,950	2,085	23	http://tawang.nic.in/
+TI	Tirap	Khonsa	111,997	2,362	47	http://tirap.nic.in/
+US	Upper Siang	Yingkiong	35,289	6,188	5	http://uppersiang.nic.in/
+UB	Upper Subansiri	Daporijo	83,205	7,032	12	http://uppersubansiri.nic.in/
+WK	West Kameng	Bomdila	87,013	7,422	12	http://westkameng.nic.in/
+WS	West Siang	Along	112,272	8,325	23	http://westsiang.nic.in/

@@ -1,0 +1,162 @@
+BI
+Birbhum
+Suri
+731101
+3462
+24° 00' N & 87 ° 34' E
+3,012,546
+4,545
+663
+BN
+Bankura
+Bankura
+722101
+3242
+23° 14' N & 87 ° 07' E
+3,191,822
+6,882
+464
+BR
+Bardhaman
+Bardhaman
+713101
+3253
+23° 16' N & 87 ° 54' E
+6,919,698
+7,024
+985
+DA
+Darjeeling
+Darjeeling
+734101
+354
+27° 03' N & 88 ° 18' E
+1,605,900
+3,149
+510
+DD
+Dakshin Dinajpur
+Balurghat
+733101
+-
+25° 13' N & 88 ° 46' E
+1,502,647
+2,183
+688
+HG
+Hooghly
+Hugli-Chuchura
+712101
+-
+22° 53' N & 88 ° 24' E
+5,040,047
+3,149
+1,601
+HR
+Howrah
+Howrah
+711101
+33
+22° 35' N & 88 ° 18' E
+4,274,010
+1,467
+2,913
+JA
+Jalpaiguri
+Jalpaiguri
+735101
+3561
+26° 32' N & 88 ° 46' E
+3,403,204
+6,227
+547
+KB
+Cooch Behar
+Cooch Behar
+736101
+3582
+26° 19' N & 89 ° 25' E
+2,478,280
+3,387
+732
+KO
+Kolkata
+Kolkata
+700001
+33
+22° 34' N & 88 ° 22' E
+4,580,544
+185
+24,760
+MA
+Malda
+English Bazar
+732101
+3512
+25° 01' N & 88 ° 09' E
+3,290,160
+3,733
+881
+ME
+Midnapore
+Midnapore
+721101
+-
+22° 25' N & 87 ° 19' E
+9,638,473
+14,081
+685
+MU
+Murshidabad
+Baharampur
+721301
+-
+24° 11' N & 88 ° 19' E
+5,863,717
+5,324
+1,101
+NA
+Nadia
+Krishnanagar
+721149
+3472
+23° 25' N & 88 ° 22' E
+4,603,756
+3,927
+1,172
+PN
+North 24 Parganas
+Barasat
+700124
+-
+22° 43' N & 88 ° 31' E
+8,930,295
+4,095
+2,181
+PS
+South 24 Parganas
+Alipore
+700027
+-
+22° 31' N & 88 ° 20' E
+6,909,015
+9,955
+694
+PU
+Purulia
+Purulia
+723101
+3252
+23° 02' N & 88 ° 28' E
+2,535,233
+6,259
+405
+UD
+Uttar Dinajpur
+Raiganj
+733134
+3523
+25° 37' N & 88 ° 07' E
+2,441,824
+3,180
+768
