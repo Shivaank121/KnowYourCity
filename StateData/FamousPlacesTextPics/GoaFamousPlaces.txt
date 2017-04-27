@@ -1,0 +1,9 @@
+<p style = "margin-left:30px">The most popular beach of Goa, Baga is located close to Calangute beach, around 30 Km North of Panaji. Along with Calangute, Baga Beach is also popular for its nightlife with some very famous clubs right there such as Brittos, Titos and Mambo.
+The Basilica of Bom Jesus houses the tomb and remains of St. Francis Xavier. Even after 400 years, the remains are in a good condition and are taken out once every decade.Up untill half a century ago, Goa was the capital of Portuguese rule in India and this is part of their heritage.
+</p>
+
+<ul><h2>Goa points of interest :</h2>
+<li>Baga Beach
+<li>Calangute Beach
+<li> Basilica of Bom Jesus
+<li>Church of Our Lady of the Immaculate Conception</li></ul>

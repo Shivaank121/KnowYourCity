@@ -1,0 +1,11 @@
+<p style = "margin-left:30px">People belonging to various cultures and races live here. The land has people following various faiths. Assam is home for various crafts as well.
+Kaziranga National Park has been declared a World Heritage Site. The park is spread over 430 sq. kms and you will find various wild species such as tiger, elephant, rhinoceros, Indian bison, sambar, deer and many more. Kamakhya Temple is located on Nilachal Hill, Guwahati top at an altitude of 800 feet above sea level. River Brahmaputra flows on the northern side of the hill. The temple is over 2200 years old.</p>
+
+
+<ul><h2>Sightseeing Places of Assam :</h2>
+
+<li>Kaziranga National Park
+<li>Agnigarh Hill
+<li>Kamakhya Temple
+<li>Dibru Saikhowa National Park
+<li>Haflong Lake</li></ul>

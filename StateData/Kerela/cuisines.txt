@@ -1,0 +1,15 @@
+<ul>
+Kerela offer some mouth watering dishes namely:
+
+<li><h3>Puttu and Kadala Curry</h3>
+Puttu is a cylindrical steamed rice cake cooked with coconut shavings and is an extremely popular breakfast dish, not just in Kannur but through other parts of Kerala as well. It's usually served with kadala curry (black chickpeas/kala chana) but can also be relished with ripe bananas and grated coconut.
+
+<li><h3>Appam with Stew</h3>
+Honestly, appam is a revolutionary food. Not once did I devoid myself of the pleasure of its company. 
+It's got a soft and thick center and a paper thin outside. 
+It's essentially a rice pancake which you can pair with almost anything and it will still steal the spotlight. 
+In a typical Southern stew you'll find chunks of chicken or meat bathed in a  beautifully spiced and dreamy coconut gravy.
+
+<li><h3>Nadan Kozhi Varuthathu aka Spicy Chicken Fry</h3></li>
+As mundane as chicken fry sounds, this version is downright delicious. Served up on a banana leaf, chicken is fried with onion, garlic, chilli, vinegar and coriander. Let me warn you, this fiery feast will get you hooked!
+</ul>
