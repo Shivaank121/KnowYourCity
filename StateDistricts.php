@@ -7,7 +7,7 @@
             echo $_GET['state'];
         }
     ?> &nbsp;</strong></h1>
-<table width="90%" height="803" border="0" align="center" style="border:#666666 solid 1px;border-bottom:#000000 solid 1px; border-top:#000000 solid 1px; border-left:#000000 solid 1px; border-right:#000000 solid 1px;line-height:30px;">
+<table width="90%" border="0" align="center" style="border:#666666 solid 1px;border-bottom:#000000 solid 1px; border-top:#000000 solid 1px; border-left:#000000 solid 1px; border-right:#000000 solid 1px;line-height:30px;">
 <tbody><tr>
           <td height="33" row="" span="9" bgcolor="#99CCFF"><div align="center"><strong>Code</strong></div></td>
           <td bgcolor="#99CCFF"><div align="center"><strong>District</strong></div></td>
@@ -21,7 +21,7 @@
           <td bgcolor="#99CCFF"><div align="center"><strong>Area (/km²)</strong></div></td>
           <td bgcolor="#99CCFF"><div align="center"><strong>Density (/km²)</strong></div></td>
         </tr>
-    <?php
+    <?php 
         require 'connect.php';
         @$query ="Select * FROM $Table";
         $result = $conn->query($query);
@@ -35,8 +35,8 @@
                     <td><div align='center'>".$row['Headquarters']."</div></td>
                     <td><div align='center'>".$row['Pincode']."</div></td>
                     <td><div align='center'>".$row['AreaCode']."</div></td>
-                    <td><div align='center'>".$row['Latitude']."</div></td>
-                    <td><div align='center'>".$row['Longitude']."</div></td>
+                    <td><div align='center'>".str_replace("m","'",str_replace("d","°",$row['Latitude']))."</div></td>
+                    <td><div align='center'>".str_replace("m","'",str_replace("d","°",$row['Longitude']))."</div></td>
 
                     <td><div align='center'>".$row['Population']."</div></td>
                     <td><div align='center'>".$row['Area']."</div></td>
@@ -48,8 +48,7 @@
         {
             echo "Invalid State Name Entered";
         }
-        
-        
-        
-    
     ?>
+    </tbody>
+</table><br>
+    <center>"-" : Information either not available or the query isn't valid</center>
