@@ -51,4 +51,4 @@
     ?>
     </tbody>
 </table><br>
-    <center>"-" : Information either not available or the query isn't valid</center>
+    <center>"-" denotes that the information is either not available or the query isn't valid</center>
